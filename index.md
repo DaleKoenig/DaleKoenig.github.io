@@ -13,4 +13,4 @@ A simple game in which the player moves around in a three dimensional maze.  The
 
 ### Contact
 
-I can be contacted at my [linkedin]https://www.linkedin.com/in/dalekoenig/).
+I can be contacted at my [linkedin](https://www.linkedin.com/in/dalekoenig/).
