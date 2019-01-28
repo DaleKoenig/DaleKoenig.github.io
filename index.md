@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Dale Koenig's GitHub
 
-You can use the [editor on GitHub](https://github.com/DaleKoenig/DaleKoenig.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a mathematician currently residing in Japan.  I am looking to move to industry to work on data science and machine learning.  I have begun work on the projects here rather recently, but hope to expand the list with time and as my skills improve.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## [Neural Style Transfer](https://github.com/DaleKoenig/BasicNST) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A script to apply neural style transfer written using tensorflow and keras.
 
-```markdown
-Syntax highlighted code block
+## [Maze3D](https://github.com/DaleKoenig/Maze3D)
 
-# Header 1
-## Header 2
-### Header 3
+A simple game in which the player moves around in a three dimensional maze.  The maze can be rotated to change perspectives.
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaleKoenig/DaleKoenig.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I can be contacted at my [linkedin]https://www.linkedin.com/in/dalekoenig/).
