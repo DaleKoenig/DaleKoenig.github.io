@@ -1,5 +1,3 @@
-## Welcome to Dale Koenig's GitHub
-
 I am a mathematician currently residing in Japan.  I am looking to move to industry to work on data science and machine learning.  I have begun work on the projects here rather recently, but hope to expand the list with time and as my skills improve.
 
 
